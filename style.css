@@ -1,0 +1,77 @@
+.back{
+    background-color: rgb(179, 62, 62);
+    height: 920px;
+    clip-path: polygon(0 0,100% 0,100% 89%, 91% 100%, 25% 100%,0 100%);
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+}
+input[type=text]{
+    height: 40px;
+    width: 495px;
+    margin: 2%;
+}
+.size{
+    height: 50px;
+    width: 495px;
+    margin-left: 2%;
+    border-color: white;
+    background-color: rgb(179, 63, 63); 
+
+}
+.hola{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: 750;
+    color: aliceblue;
+}
+.hen{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.sub{
+        padding-top: 278px;
+    padding-left: 115px;
+}
+.plank{
+    margin-top: 10%;
+    background-color: rgb(179, 63, 63);
+    color: white;
+}
+.all{
+        padding-top: 20px;
+    padding-right: 115px;
+}
+.btn{
+    margin-top: 4%;
+    margin-left: 2%;
+    width: 420px;
+    height: 50px;
+    font-size: 20px;
+}
+.own{
+    line-height: 20px;
+}
+.how{
+font-size: 30px;
+font-weight: 800;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hell{
+    background-color: rgb(179, 63, 63);
+    border-color: white;
+}
+.north{
+    margin-left: 2%;
+}
+.west{
+    color: white;
+}
+.yes{
+    margin-left: 24%;
+    margin-top: 1px;
+}
+.down{    margin-left: 84px;}
+.south{    margin-left: 139px;}
