@@ -97,8 +97,23 @@ textarea::placeholder{
 .buton{padding-top: 40px;}
 .test{
     padding-bottom: 12px;
+    width: 200px;
 }
 .chicky{
     padding-left: 365px;
 }
 .nick{padding-left: 260px;}
+.boton{
+    padding: 0;
+    height: 13px;
+    width: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  margin-top: -12px;
+}
+
+.ben{
+    padding-left: 270px;
+}
+.boom{margin-top: 12px;}
