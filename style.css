@@ -1,6 +1,6 @@
 .back{
     background-color: rgb(179, 62, 62);
-    height: 920px;
+    height: 1240px;
     clip-path: polygon(0 0,100% 0,100% 89%, 91% 100%, 25% 100%,0 100%);
 }
 .left{
@@ -13,7 +13,7 @@ input[type=text]{
     margin: 2%;
 }
 .size{
-    height: 50px;
+    height: 70px;
     width: 495px;
     margin-left: 2%;
     border-color: white;
@@ -68,10 +68,37 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .west{
     color: white;
-}
-.yes{
-    margin-left: 24%;
-    margin-top: 1px;
+    font-size: 12px;
 }
 .down{    margin-left: 84px;}
 .south{    margin-left: 139px;}
+.boom-textarea::placeholder{
+    color: white;
+}
+input::placeholder{
+    color: white;
+}
+textarea::placeholder{
+    color: white;
+}
+.check{
+    padding-bottom: 25px;
+}
+.noo{
+    padding: 0px 0px 25px 0px;
+}
+.gain{
+    padding-top: 15px;
+}
+.pull{
+    padding-top: 25px;
+}
+.last{padding-top: 30px;}
+.buton{padding-top: 40px;}
+.test{
+    padding-bottom: 12px;
+}
+.chicky{
+    padding-left: 365px;
+}
+.nick{padding-left: 260px;}
