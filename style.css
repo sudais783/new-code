@@ -1,6 +1,6 @@
 .back{
     background-color: rgb(179, 62, 62);
-    height: 1240px;
+    height: 1280px;
     clip-path: polygon(0 0,100% 0,100% 89%, 91% 100%, 25% 100%,0 100%);
 }
 .left{
@@ -88,7 +88,7 @@ textarea::placeholder{
     padding: 0px 0px 25px 0px;
 }
 .gain{
-    padding-top: 15px;
+    padding-top: 10px;
 }
 .pull{
     padding-top: 25px;
@@ -98,6 +98,7 @@ textarea::placeholder{
 .test{
     padding-bottom: 12px;
     width: 200px;
+    padding-left: 6px;
 }
 .chicky{
     padding-left: 365px;
@@ -110,7 +111,7 @@ textarea::placeholder{
     display: flex;
     justify-content: center;
     align-items: center;
-  margin-top: -12px;
+  margin-top: -16px;
 }
 
 .ben{
