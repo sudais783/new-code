@@ -1,6 +1,6 @@
 .back{
     background-color: rgb(179, 62, 62);
-    height: 1280px;
+    height: 1200px;
     clip-path: polygon(0 0,100% 0,100% 89%, 91% 100%, 25% 100%,0 100%);
 }
 .left{
@@ -82,18 +82,15 @@ textarea::placeholder{
     color: white;
 }
 .check{
-    padding-bottom: 25px;
+    padding-bottom: 15px;
 }
 .noo{
-    padding: 0px 0px 25px 0px;
-}
-.gain{
-    padding-top: 10px;
+    padding: 0px 0px 15px 0px;
 }
 .pull{
-    padding-top: 25px;
+    padding-top: 15px;
 }
-.last{padding-top: 30px;}
+.last{padding-top: 15px;}
 .buton{padding-top: 40px;}
 .test{
     padding-bottom: 12px;
@@ -117,10 +114,13 @@ textarea::placeholder{
 .ben{
     padding-left: 270px;
 }
-.boom{margin-top: 12px;}
+.boom{margin-top: 4px;}
 .chal{padding-left: 360px}
 .well{padding-top: 10px;
 padding-left: 330px;}
 .need{
     padding-left: 10px;
+}
+.kill{
+    color: white;
 }
