@@ -1,6 +1,6 @@
 .back{
-    background-color: rgb(179, 62, 62);
-    height: 1200px;
+    background-color: brown;
+    height: 1250px;
     clip-path: polygon(0 0,100% 0,100% 89%, 91% 100%, 25% 100%,0 100%);
 }
 .left{
@@ -17,7 +17,7 @@ input[type=text]{
     width: 495px;
     margin-left: 2%;
     border-color: white;
-    background-color: rgb(179, 63, 63); 
+    background-color: brown
 
 }
 .hola{
@@ -36,12 +36,10 @@ input[type=text]{
     padding-left: 115px;
 }
 .plank{
-    margin-top: 10%;
-    background-color: rgb(179, 63, 63);
-    color: white;
+    background-color: brown;
 }
 .all{
-        padding-top: 20px;
+        padding-top: 60px;
     padding-right: 115px;
 }
 .btn{
@@ -60,15 +58,15 @@ font-weight: 800;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .hell{
-    background-color: rgb(179, 63, 63);
-    border-color: white;
-}
-.north{
+    background-color: brown;
+    border: 2px solid white;
+    /* border-radius: 2px; */
     margin-left: 2%;
+
 }
-.west{
+.west2{
     color: white;
-    font-size: 12px;
+    font-size: 13px;
 }
 .down{    margin-left: 84px;}
 .south{    margin-left: 139px;}
@@ -80,12 +78,6 @@ input::placeholder{
 }
 textarea::placeholder{
     color: white;
-}
-.check{
-    padding-bottom: 15px;
-}
-.noo{
-    padding: 0px 0px 15px 0px;
 }
 .pull{
     padding-top: 15px;
@@ -101,26 +93,30 @@ textarea::placeholder{
     padding-left: 365px;
 }
 .nick{padding-left: 260px;}
-.boton{
-    padding: 0;
-    height: 13px;
-    width: 13px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  margin-top: -16px;
+.check2{
+    padding-top: 25px;
 }
-
-.ben{
-    padding-left: 270px;
-}
-.boom{margin-top: 4px;}
 .chal{padding-left: 360px}
 .well{padding-top: 10px;
 padding-left: 330px;}
-.need{
-    padding-left: 10px;
-}
 .kill{
     color: white;
+}
+.test2{
+    display: flex;
+    padding-bottom: 12px;
+}
+.ben2{
+    padding-top: 2px;
+    padding-left:140px ;
+}
+.boton2{
+    height: 13px;
+    width: 12px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.bang{
+    padding-left: 6px;
 }
