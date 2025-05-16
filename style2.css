@@ -22,7 +22,7 @@ input[type=text]{
 }
 .hola{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
+    font-size: 80px;
     font-weight: 750;
     color: aliceblue;
 }
@@ -30,6 +30,7 @@ input[type=text]{
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
+    font-size: 22px;
 }
 .sub{
         padding-top: 278px;
@@ -51,6 +52,8 @@ input[type=text]{
 }
 .own{
     line-height: 20px;
+    font-size: 20px;
+    padding-left: 4px;
 }
 .how{
 font-size: 30px;
@@ -96,9 +99,6 @@ textarea::placeholder{
 .check2{
     padding-top: 25px;
 }
-.chal{padding-left: 360px}
-.well{padding-top: 10px;
-padding-left: 330px;}
 .kill{
     color: white;
 }
@@ -119,4 +119,17 @@ padding-left: 330px;}
 }
 .bang{
     padding-left: 6px;
+}
+.boton3{
+    width: 12px;
+    height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lock{
+    padding-left: 465px;
+}
+.bash{
+    padding-left: 430px;
 }
